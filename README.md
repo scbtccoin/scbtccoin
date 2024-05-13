@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @scbtccoin
 - 👀 I’m interested in ... dev blockchain
 - 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ... steve.cariolaflp@gmail.com
+- 💞️ I’m looking to collaborate on ... vonzaydev@gmail.com
 - 
 
 <!---
